@@ -1,0 +1,20 @@
+[VTM4]: Customer7,40TL,Dave
+[VTM3]: Customer8,300TL,Kevin
+[VTM1]: Customer2,231TL,Bob
+[VTM9]: Customer9,231TL,Bob
+[VTM10]: Customer6,100TL,Bob
+[VTM1]: Customer1,300TL,Kevin
+[VTM9]: Customer13,100TL,Bob
+[VTM9]: Customer4,30TL,Otto
+[VTM9]: Customer11,30TL,Otto
+[VTM4]: Customer14,40TL,Dave
+[VTM2]: Customer3,50TL,Stuart
+[VTM8]: Customer5,65TL,Stuart
+[VTM2]: Customer10,50TL,Stuart
+[VTM8]: Customer12,65TL,Stuart
+[Main]: All payments are completed
+[Main]: Kevin: 600
+[Main]: Bob: 662
+[Main]: Stuart: 230
+[Main]: Otto: 60
+[Main]: Dave: 80
